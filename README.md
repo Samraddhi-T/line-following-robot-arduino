@@ -53,3 +53,11 @@ To develop an autonomous robot that can follow a specified path and detect obsta
 ---
 
 *This project demonstrates the integration of electronics, embedded programming, and automation.*
+
+## 📸 Project Gallery
+
+![Line Following Robot](line-following-robot.jpg)
+
+## 🎥 Project Demonstration
+
+[Watch Robot Demonstration](robot-demonstration.mp4)
